@@ -1,0 +1,26 @@
+
+NET "sw<3>" LOC = B4;
+NET "sw<2>" LOC = K3;
+NET "sw<1>" LOC = L3;
+NET "sw<0>" LOC = P11;
+NET "an[3]" LOC = F12;
+NET "an[2]" LOC = J12;
+NET "an[1]" LOC = M13;
+NET "an[0]" LOC = K14;
+NET "led[3]" LOC = P6;
+NET "led[2]" LOC = P7;
+NET "led[1]" LOC = M11;
+NET "led[0]" LOC = M5;
+NET "a" LOC = L14;
+NET "b" LOC = H12;
+NET "c" LOC = N14;
+NET "d" LOC = N11;
+NET "e" LOC = P12;
+NET "f" LOC = L13;
+NET "g" LOC = M12;
+NET "dp" LOC = N13;
+NET "reset1" LOC = A7;
+NET "reset2" LOC = M4;
+NET "reset3" LOC = C11;
+NET "reset4" LOC = G12;
+NET "clock" LOC = B8;
